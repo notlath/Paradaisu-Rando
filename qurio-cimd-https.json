@@ -1,0 +1,1 @@
+{"client_id":"https://notlath.github.io/Paradaisu-Rando/qurio-cimd-https.json","client_name":"Qurio CIMD probe (test)","client_uri":"https://notlath.github.io/Paradaisu-Rando","redirect_uris":["https://notlath.github.io/Paradaisu-Rando/auth"],"grant_types":["authorization_code","refresh_token"],"response_types":["code"],"token_endpoint_auth_method":"none"}
